@@ -1,4 +1,4 @@
-# Computer Engineering Portfolio
+# CpE_Portfolio_DelaCruz_BSCpE3A
 
 ## Personal Information
 
@@ -52,7 +52,7 @@ A Python calculator program that performs addition, subtraction, multiplication,
 - Python
 
 ### Screenshot
-![Calculator Program](images/calculator-output.png)
+![Calculator Program](https://github.com/Reggieworks/CpE_Portfolio_DelaCruz_BSCpE3A/blob/c470358aa08ee9eef4bcd6b3b2d14dd37779c073/file_00000000fe2c720780d5bd10a3fe6133.png)
 
 ---
 
